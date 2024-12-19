@@ -9,11 +9,11 @@
   "notes": "Windows 7 SP1 and Windows 8.1 are no longer supported.",
   "architecture": {
     "64bit": {
-      "url": "https://ghp.ci/https://github.com/paintdotnet/release/releases/download/v5.1.1/paint.net.5.1.1.portable.x64.zip",
+      "url": "https://gitproxy.click/https://github.com/paintdotnet/release/releases/download/v5.1.1/paint.net.5.1.1.portable.x64.zip",
       "hash": "84e898f2e3e4c8a729c61875ff070d7306c5135c84d13cc406ed70331b088e1c"
     },
     "arm64": {
-      "url": "https://ghp.ci/https://github.com/paintdotnet/release/releases/download/v5.1.1/paint.net.5.1.1.portable.arm64.zip",
+      "url": "https://gitproxy.click/https://github.com/paintdotnet/release/releases/download/v5.1.1/paint.net.5.1.1.portable.arm64.zip",
       "hash": "b32a61c27890dcdd19983f98e0e1425886e9782308c6403f72f0c852f85bf159"
     }
   },
@@ -38,10 +38,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghp.ci/https://github.com/paintdotnet/release/releases/download/v$version/paint.net.$version.portable.x64.zip"
+        "url": "https://gitproxy.click/https://github.com/paintdotnet/release/releases/download/v$version/paint.net.$version.portable.x64.zip"
       },
       "arm64": {
-        "url": "https://ghp.ci/https://github.com/paintdotnet/release/releases/download/v$version/paint.net.$version.portable.arm64.zip"
+        "url": "https://gitproxy.click/https://github.com/paintdotnet/release/releases/download/v$version/paint.net.$version.portable.arm64.zip"
       }
     }
   }

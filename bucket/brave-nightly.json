@@ -8,7 +8,7 @@
   },
   "architecture": {
     "64bit": {
-      "url": "https://ghp.ci/https://github.com/brave/brave-browser/releases/download/v1.75.112/brave-v1.75.112-win32-x64.zip",
+      "url": "https://gitproxy.click/https://github.com/brave/brave-browser/releases/download/v1.75.112/brave-v1.75.112-win32-x64.zip",
       "hash": "fbfecc6c786f9d9cf1cc354a3e5fc7f0d2492ae573e11ae9c66e2474098c5ba4"
     }
   },
@@ -31,7 +31,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghp.ci/https://github.com/brave/brave-browser/releases/download/v$version/brave-v$version-win32-x64.zip"
+        "url": "https://gitproxy.click/https://github.com/brave/brave-browser/releases/download/v$version/brave-v$version-win32-x64.zip"
       }
     }
   }

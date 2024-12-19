@@ -3,7 +3,7 @@
   "description": "A free form data organizer and a replacement for spreadsheets, mind mappers, outliners, PIMs, text editors and small databases.",
   "homepage": "https://strlen.com/treesheets",
   "license": "ZLIB",
-  "url": "https://ghp.ci/https://github.com/aardappel/treesheets/releases/download/12383844553/windows_treesheets_no_installer.zip",
+  "url": "https://gitproxy.click/https://github.com/aardappel/treesheets/releases/download/12383844553/windows_treesheets_no_installer.zip",
   "hash": "f504881f8d128bc1e40c1e645952abbc5cef76b7c7c0b6afe3abc545d8d7bd88",
   "extract_dir": "TS",
   "pre_install": [
@@ -24,6 +24,6 @@
     "github": "https://github.com/aardappel/treesheets"
   },
   "autoupdate": {
-    "url": "https://ghp.ci/https://github.com/aardappel/treesheets/releases/download/$version/windows_treesheets_no_installer.zip"
+    "url": "https://gitproxy.click/https://github.com/aardappel/treesheets/releases/download/$version/windows_treesheets_no_installer.zip"
   }
 }

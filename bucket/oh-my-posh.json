@@ -7,8 +7,8 @@
   "architecture": {
     "64bit": {
       "url": [
-        "https://ghp.ci/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v24.15.1/themes.zip",
-        "https://ghp.ci/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v24.15.1/posh-windows-amd64.exe#/oh-my-posh.exe"
+        "https://gitproxy.click/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v24.15.1/themes.zip",
+        "https://gitproxy.click/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v24.15.1/posh-windows-amd64.exe#/oh-my-posh.exe"
       ],
       "hash": [
         "ebc80887d37e78d78120ad331ff2b2772f064eed9dd5e8e9568ecb49b2079c28",
@@ -17,8 +17,8 @@
     },
     "32bit": {
       "url": [
-        "https://ghp.ci/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v24.15.1/themes.zip",
-        "https://ghp.ci/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v24.15.1/posh-windows-386.exe#/oh-my-posh.exe"
+        "https://gitproxy.click/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v24.15.1/themes.zip",
+        "https://gitproxy.click/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v24.15.1/posh-windows-386.exe#/oh-my-posh.exe"
       ],
       "hash": [
         "ebc80887d37e78d78120ad331ff2b2772f064eed9dd5e8e9568ecb49b2079c28",
@@ -27,8 +27,8 @@
     },
     "arm64": {
       "url": [
-        "https://ghp.ci/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v24.15.1/themes.zip",
-        "https://ghp.ci/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v24.15.1/posh-windows-arm64.exe#/oh-my-posh.exe"
+        "https://gitproxy.click/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v24.15.1/themes.zip",
+        "https://gitproxy.click/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v24.15.1/posh-windows-arm64.exe#/oh-my-posh.exe"
       ],
       "hash": [
         "ebc80887d37e78d78120ad331ff2b2772f064eed9dd5e8e9568ecb49b2079c28",
@@ -48,20 +48,20 @@
     "architecture": {
       "64bit": {
         "url": [
-          "https://ghp.ci/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v$version/themes.zip",
-          "https://ghp.ci/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v$version/posh-windows-amd64.exe#/oh-my-posh.exe"
+          "https://gitproxy.click/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v$version/themes.zip",
+          "https://gitproxy.click/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v$version/posh-windows-amd64.exe#/oh-my-posh.exe"
         ]
       },
       "32bit": {
         "url": [
-          "https://ghp.ci/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v$version/themes.zip",
-          "https://ghp.ci/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v$version/posh-windows-386.exe#/oh-my-posh.exe"
+          "https://gitproxy.click/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v$version/themes.zip",
+          "https://gitproxy.click/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v$version/posh-windows-386.exe#/oh-my-posh.exe"
         ]
       },
       "arm64": {
         "url": [
-          "https://ghp.ci/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v$version/themes.zip",
-          "https://ghp.ci/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v$version/posh-windows-arm64.exe#/oh-my-posh.exe"
+          "https://gitproxy.click/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v$version/themes.zip",
+          "https://gitproxy.click/https://github.com/JanDeDobbeleer/oh-my-posh/releases/download/v$version/posh-windows-arm64.exe#/oh-my-posh.exe"
         ]
       }
     },

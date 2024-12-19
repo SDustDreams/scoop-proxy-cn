@@ -5,15 +5,15 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://ghp.ci/https://github.com/evilmartians/lefthook/releases/download/v1.9.3/lefthook_1.9.3_Windows_x86_64.gz",
+      "url": "https://gitproxy.click/https://github.com/evilmartians/lefthook/releases/download/v1.9.3/lefthook_1.9.3_Windows_x86_64.gz",
       "hash": "b0386af4afcb71fff381f7e4c9567189faf1ea9c360537d8cbda45b531fe723f"
     },
     "32bit": {
-      "url": "https://ghp.ci/https://github.com/evilmartians/lefthook/releases/download/v1.9.3/lefthook_1.9.3_Windows_i386.gz",
+      "url": "https://gitproxy.click/https://github.com/evilmartians/lefthook/releases/download/v1.9.3/lefthook_1.9.3_Windows_i386.gz",
       "hash": "8250e62bfb6e19f57de132a07e441af655b3330260185245120c7ca25630f357"
     },
     "arm64": {
-      "url": "https://ghp.ci/https://github.com/evilmartians/lefthook/releases/download/v1.9.3/lefthook_1.9.3_Windows_arm64.gz",
+      "url": "https://gitproxy.click/https://github.com/evilmartians/lefthook/releases/download/v1.9.3/lefthook_1.9.3_Windows_arm64.gz",
       "hash": "8ad8cd757790218ccc8051346cbdec073d5b0476170963f2cc3553904b31ffa2"
     }
   },
@@ -22,13 +22,13 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghp.ci/https://github.com/evilmartians/lefthook/releases/download/v$version/lefthook_$version_Windows_x86_64.gz"
+        "url": "https://gitproxy.click/https://github.com/evilmartians/lefthook/releases/download/v$version/lefthook_$version_Windows_x86_64.gz"
       },
       "32bit": {
-        "url": "https://ghp.ci/https://github.com/evilmartians/lefthook/releases/download/v$version/lefthook_$version_Windows_i386.gz"
+        "url": "https://gitproxy.click/https://github.com/evilmartians/lefthook/releases/download/v$version/lefthook_$version_Windows_i386.gz"
       },
       "arm64": {
-        "url": "https://ghp.ci/https://github.com/evilmartians/lefthook/releases/download/v$version/lefthook_$version_Windows_arm64.gz"
+        "url": "https://gitproxy.click/https://github.com/evilmartians/lefthook/releases/download/v$version/lefthook_$version_Windows_arm64.gz"
       }
     },
     "hash": {

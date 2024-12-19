@@ -5,7 +5,7 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://ghp.ci/https://github.com/balena-io/balena-cli/releases/download/v20.1.2/balena-cli-v20.1.2-windows-x64-standalone.zip",
+      "url": "https://gitproxy.click/https://github.com/balena-io/balena-cli/releases/download/v20.1.2/balena-cli-v20.1.2-windows-x64-standalone.zip",
       "hash": "13f058ed28d9a94291eadf48c6bae001c442dce92cd1f7e8e8fe9e3d92f7edc1"
     }
   },
@@ -15,7 +15,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghp.ci/https://github.com/balena-io/balena-cli/releases/download/v$version/balena-cli-v$version-windows-x64-standalone.zip"
+        "url": "https://gitproxy.click/https://github.com/balena-io/balena-cli/releases/download/v$version/balena-cli-v$version-windows-x64-standalone.zip"
       }
     }
   }

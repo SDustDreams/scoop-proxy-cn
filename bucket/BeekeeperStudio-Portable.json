@@ -6,7 +6,7 @@
   "changelog": "https://github.com/beekeeper-studio/beekeeper-studio/releases",
   "architecture": {
     "64bit": {
-      "url": "https://ghp.ci/https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.0.8/Beekeeper-Studio-Setup-5.0.8.exe#/dl.7z",
+      "url": "https://gitproxy.click/https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v5.0.8/Beekeeper-Studio-Setup-5.0.8.exe#/dl.7z",
       "hash": "sha512:39a4b4882b00a4d78b7798fc01f0ec5899dc94b6a06ff1494f42ab743cccd85949143da6ae37ad1b12d0bc014c6480f44f03032fb53674c159a3387a811cfcc0",
       "pre_install": [
         "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
@@ -27,7 +27,7 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghp.ci/https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v$version/Beekeeper-Studio-Setup-$version.exe#/dl.7z"
+        "url": "https://gitproxy.click/https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v$version/Beekeeper-Studio-Setup-$version.exe#/dl.7z"
       }
     },
     "hash": {

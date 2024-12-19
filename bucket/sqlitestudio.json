@@ -5,11 +5,11 @@
   "license": "GPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://ghp.ci/https://github.com/pawelsalawa/sqlitestudio/releases/download/3.4.10/sqlitestudio_x64-3.4.10.zip",
+      "url": "https://gitproxy.click/https://github.com/pawelsalawa/sqlitestudio/releases/download/3.4.10/sqlitestudio_x64-3.4.10.zip",
       "hash": "1bc4ca1efc670ee5b0793e5ade7e787fd9210cd44d0687bda4225fc36bb1e7ee"
     },
     "32bit": {
-      "url": "https://ghp.ci/https://github.com/pawelsalawa/sqlitestudio/releases/download/3.4.10/sqlitestudio_i386-3.4.10.zip",
+      "url": "https://gitproxy.click/https://github.com/pawelsalawa/sqlitestudio/releases/download/3.4.10/sqlitestudio_i386-3.4.10.zip",
       "hash": "d7cb33ae6c6273a283150f640463cd477ec405ec0dfbd89dec47b0b4fb99fcdf"
     }
   },
@@ -27,14 +27,14 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://ghp.ci/https://github.com/pawelsalawa/sqlitestudio/releases/download/$version/sqlitestudio_x64-$version.zip",
+        "url": "https://gitproxy.click/https://github.com/pawelsalawa/sqlitestudio/releases/download/$version/sqlitestudio_x64-$version.zip",
         "hash": {
           "url": "https://github.com/pawelsalawa/sqlitestudio/releases/tag/$version",
           "find": "<td>Windows\\s+?x64<\\/td>\\s*?<td>Portable<\\/td>[\\s\\S]*?<code>(.*?)<\\/code>"
         }
       },
       "32bit": {
-        "url": "https://ghp.ci/https://github.com/pawelsalawa/sqlitestudio/releases/download/$version/sqlitestudio_i386-$version.zip",
+        "url": "https://gitproxy.click/https://github.com/pawelsalawa/sqlitestudio/releases/download/$version/sqlitestudio_i386-$version.zip",
         "hash": {
           "url": "https://github.com/pawelsalawa/sqlitestudio/releases/tag/$version",
           "find": "<td>Windows\\s+?i386<\\/td>\\s*?<td>Portable<\\/td>[\\s\\S]*?<code>(.*?)<\\/code>"

@@ -11,8 +11,8 @@
     "64bit": {
       "url": [
         "https://download.sublimetext.com/sublime_text_build_4186_x64.zip",
-        "https://ghp.ci/https://raw.githubusercontent.com/naderi/scoop-bucket/master/scripts/sublime-text/sublime-text-install-context.reg",
-        "https://ghp.ci/https://raw.githubusercontent.com/naderi/scoop-bucket/master/scripts/sublime-text/sublime-text-uninstall-context.reg"
+        "https://gitproxy.click/https://raw.githubusercontent.com/naderi/scoop-bucket/master/scripts/sublime-text/sublime-text-install-context.reg",
+        "https://gitproxy.click/https://raw.githubusercontent.com/naderi/scoop-bucket/master/scripts/sublime-text/sublime-text-uninstall-context.reg"
       ],
       "hash": [
         "2fcb8720665e5dea8808e0bc38e0f2aa211fa7334e05e1d7244b90a95eda3975",
@@ -23,8 +23,8 @@
     "32bit": {
       "url": [
         "https://download.sublimetext.com/sublime_text_build_4186.zip",
-        "https://ghp.ci/https://raw.githubusercontent.com/naderi/scoop-bucket/master/scripts/sublime-text/sublime-text-install-context.reg",
-        "https://ghp.ci/https://raw.githubusercontent.com/naderi/scoop-bucket/master/scripts/sublime-text/sublime-text-uninstall-context.reg"
+        "https://gitproxy.click/https://raw.githubusercontent.com/naderi/scoop-bucket/master/scripts/sublime-text/sublime-text-install-context.reg",
+        "https://gitproxy.click/https://raw.githubusercontent.com/naderi/scoop-bucket/master/scripts/sublime-text/sublime-text-uninstall-context.reg"
       ],
       "hash": [
         "d4ccd00c2596b6f756bde83b2d6f056b47e41a1e0f72a5d4ea4f5540786e633f",
