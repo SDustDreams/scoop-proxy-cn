@@ -2294,7 +2294,7 @@ bucket/cheat-engine.json, ScoopInstaller/Extras, 1
 bucket/cheat.json, ScoopInstaller/Main, 1
 bucket/checksum-compare.json, ScoopInstaller/Extras, 0
 bucket/chef-workstation.json, ScoopInstaller/Extras, 0
-bucket/cherry-studio.json, ViCrack/scoop-bucket, 1
+bucket/cherry-studio.json, naderi/scoop-bucket, 1
 bucket/cherrytree.json, ScoopInstaller/Extras, 0
 bucket/chezmoi-modify-manager.json, cderv/r-bucket, 1
 bucket/chezmoi.json, ScoopInstaller/Main, 1
@@ -2619,11 +2619,11 @@ bucket/cryptomator-portapps.json, Velgus/Scoop-Portapps, 1
 bucket/cryptomator.json, ScoopInstaller/Extras, 1
 bucket/crystal.json, ScoopInstaller/Main, 1
 bucket/crystaldiskinfo-aoi-edition.json, chawyehsu/dorado, 0
-bucket/crystaldiskinfo-aoi.json, aoisummer/scoop-bucket, 0
+bucket/crystaldiskinfo-aoi.json, AkariiinMKII/Scoop4kariiin, 0
 bucket/crystaldiskinfo-kureikei-edition.json, chawyehsu/dorado, 0
-bucket/crystaldiskinfo-kureikei.json, aoisummer/scoop-bucket, 0
+bucket/crystaldiskinfo-kureikei.json, DoveBoy/Apps, 0
 bucket/crystaldiskinfo-shizuku-edition.json, chawyehsu/dorado, 0
-bucket/crystaldiskinfo-shizuku.json, aoisummer/scoop-bucket, 0
+bucket/crystaldiskinfo-shizuku.json, AkariiinMKII/Scoop4kariiin, 0
 bucket/crystaldiskinfo.json, ScoopInstaller/Extras, 0
 bucket/crystaldiskmark-aoi-edition.json, chawyehsu/dorado, 0
 bucket/crystaldiskmark-aoi.json, aoisummer/scoop-bucket, 0
@@ -5966,7 +5966,6 @@ bucket/netfetch.json, aliesbelik/poldi, 1
 bucket/netflix-verify.json, ygguorun/scoop-bucket, 1
 bucket/nethack.json, Calinou/scoop-games, 0
 bucket/netlifyctl.json, ScoopInstaller/Extras, 1
-bucket/netlogo.json, ivaquero/scoopet, 0
 bucket/netmet.json, littleli/Scoop-littleli, 0
 bucket/netpass.json, ScoopInstaller/Nirsoft, 0
 bucket/netradio.json, ScoopInstaller/Extras, 0
@@ -9626,6 +9625,7 @@ bucket/windirstat-portable.json, naderi/scoop-bucket, 0
 bucket/windirstat.json, ScoopInstaller/Extras, 1
 bucket/windjview.json, ScoopInstaller/Extras, 0
 bucket/window-switcher.json, ScoopInstaller/Extras, 1
+bucket/windowgrid.json, naderi/scoop-bucket, 1
 bucket/windows-application-driver.json, ScoopInstaller/Main, 1
 bucket/windows-defender-control.json, Weidows-projects/scoop-3rd, 1
 bucket/windows-defender-remover.json, Weidows-projects/scoop-3rd, 1
@@ -10447,6 +10447,7 @@ scripts/vscode/uninstall-github-integration.reg, ScoopInstaller/Extras, 0
 scripts/vulkan/install-vk-layers.ps1, ScoopInstaller/Main, 0
 scripts/wezterm/install-context.reg, ScoopInstaller/Extras, 0
 scripts/wezterm/uninstall-context.reg, ScoopInstaller/Extras, 0
+scripts/windowgrid/WindowGrid.settings, naderi/scoop-bucket, 0
 scripts/windows-terminal-preview/install-context.reg, ScoopInstaller/Versions, 0
 scripts/windows-terminal-preview/uninstall-context.reg, ScoopInstaller/Versions, 0
 scripts/windows-terminal/install-context.reg, ScoopInstaller/Extras, 0
