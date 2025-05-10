@@ -5282,6 +5282,7 @@ bucket/llvm-x.json, kiennq/scoop-misc, 1
 bucket/llvm.json, ScoopInstaller/Main, 1
 bucket/lmgrep.json, littleli/scoop-clojure, 1
 bucket/lmms.json, ScoopInstaller/Extras, 1
+bucket/lmstudio.json, chawyehsu/dorado, 0
 bucket/ln.json, ScoopInstaller/Main, 1
 bucket/lnCLI-Portable.json, ACooper81/scoop-apps, 0
 bucket/loadeddllsview.json, ScoopInstaller/Nirsoft, 0
