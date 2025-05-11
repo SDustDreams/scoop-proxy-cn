@@ -8330,7 +8330,6 @@ bucket/skaffold.json, ScoopInstaller/Extras, 1
 bucket/skm.json, MCOfficer/scoop-bucket, 1
 bucket/skylark.json, echoiron/echo-scoop, 1
 bucket/skype-portapps.json, Velgus/Scoop-Portapps, 1
-bucket/skype.json, ScoopInstaller/Extras, 0
 bucket/skypecontactsview.json, ScoopInstaller/Nirsoft, 0
 bucket/skypelogview.json, ScoopInstaller/Nirsoft, 0
 bucket/skywalking-cli.json, ScoopInstaller/Main, 0
@@ -9103,6 +9102,7 @@ bucket/trashy.json, ScoopInstaller/Main, 1
 bucket/traymond.json, ScoopInstaller/Extras, 1
 bucket/trays.json, NyaMisty/scoop_bucket_misty, 1
 bucket/trayweather.json, ScoopInstaller/Extras, 1
+bucket/trayy.json, naderi/scoop-bucket, 1
 bucket/trdlCLI-Portable.json, ACooper81/scoop-apps, 0
 bucket/trdsql.json, aliesbelik/poldi, 1
 bucket/trdsqlCLI-Portable.json, ACooper81/scoop-apps, 1
