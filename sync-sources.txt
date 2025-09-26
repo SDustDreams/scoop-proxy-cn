@@ -173,7 +173,7 @@ bucket/AxGlyph.json, ygguorun/scoop-bucket, 0
 bucket/AxMath.json, ygguorun/scoop-bucket, 0
 bucket/BADownloaderUI.json, Weidows-projects/scoop-3rd, 1
 bucket/Bai-Jamjuree.json, matthewjberger/scoop-nerd-fonts, 0
-bucket/BaiduNetdisk.json, ygguorun/scoop-bucket, 0
+bucket/BaiduNetdisk.json, kkzzhizhou/scoop-zapps, 0
 bucket/Bandicam-portable.json, kkzzhizhou/scoop-zapps, 1
 bucket/Bart-Portable.json, ACooper81/scoop-apps, 0
 bucket/BatToExeConverter.json, kkzzhizhou/scoop-zapps, 1
@@ -6704,6 +6704,7 @@ bucket/parallels-client.json, amorphobia/siku, 0
 bucket/paraview.json, ScoopInstaller/Extras, 0
 bucket/pari-gp.json, ScoopInstaller/Extras, 0
 bucket/parsec-np.json, ScoopInstaller/Nonportable, 0
+bucket/parsec-vdd.json, Weidows-projects/scoop-3rd, 1
 bucket/parsec.json, ScoopInstaller/Extras, 0
 bucket/parsify-desktop.json, amorphobia/siku, 1
 bucket/parsify.json, ChungZH/peach, 1
@@ -9025,6 +9026,8 @@ bucket/temurin23-jdk.json, ScoopInstaller/Java, 1
 bucket/temurin23-jre.json, ScoopInstaller/Java, 1
 bucket/temurin24-jdk.json, ScoopInstaller/Java, 1
 bucket/temurin24-jre.json, ScoopInstaller/Java, 1
+bucket/temurin25-jdk.json, ScoopInstaller/Java, 1
+bucket/temurin25-jre.json, ScoopInstaller/Java, 1
 bucket/temurin8-jdk.json, ScoopInstaller/Java, 1
 bucket/temurin8-jre.json, ScoopInstaller/Java, 1
 bucket/temurin8-nightly-jdk.json, ScoopInstaller/Java, 1
@@ -9773,6 +9776,7 @@ bucket/webcookiessniffer.json, ScoopInstaller/Nirsoft, 0
 bucket/webcopy.json, ScoopInstaller/Extras, 0
 bucket/webcord.json, ScoopInstaller/Extras, 1
 bucket/webex.json, ScoopInstaller/Extras, 0
+bucket/webgal-terre.json, Calinou/scoop-games, 1
 bucket/webhook.json, ScoopInstaller/Main, 1
 bucket/webpicmd.json, ScoopInstaller/Extras, 0
 bucket/webshell_generate.json, ViCrack/scoop-bucket, 1
@@ -10473,6 +10477,7 @@ bucket/zulumc.json, ScoopInstaller/Java, 0
 bucket/zvm.json, ScoopInstaller/Main, 1
 bucket/zxhn-f610gv9-crcv.json, SayCV/scoop-cvp, 1
 bucket/zyfun.json, cc713/ownscoop, 1
+bucket/zyperwinoptimize.json, DoveBoy/Apps, 1
 bucket/zyplayer.json, DoveBoy/Apps, 1
 install.ps1, , 1
 scripts/.deprecated/yy/yy-setup.ps1, HUMORCE/nuke, 0
