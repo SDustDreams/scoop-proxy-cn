@@ -27,7 +27,7 @@
       }
     },
     "hash": {
-      "url": "https://gitproxy.click/https://github.com/tamnd/kage/releases/download/v$version/checksums.txt"
+      "url": "$baseurl/checksums.txt"
     }
   }
 }
